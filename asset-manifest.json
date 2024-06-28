@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IlyaZakharov00/react_HomeWork_9_1/static/css/main.9e89d547.css",
+    "main.js": "/IlyaZakharov00/react_HomeWork_9_1/static/js/main.7b3e8280.js",
+    "static/js/453.54d7e7d3.chunk.js": "/IlyaZakharov00/react_HomeWork_9_1/static/js/453.54d7e7d3.chunk.js",
+    "index.html": "/IlyaZakharov00/react_HomeWork_9_1/index.html",
+    "main.9e89d547.css.map": "/IlyaZakharov00/react_HomeWork_9_1/static/css/main.9e89d547.css.map",
+    "main.7b3e8280.js.map": "/IlyaZakharov00/react_HomeWork_9_1/static/js/main.7b3e8280.js.map",
+    "453.54d7e7d3.chunk.js.map": "/IlyaZakharov00/react_HomeWork_9_1/static/js/453.54d7e7d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e89d547.css",
+    "static/js/main.7b3e8280.js"
+  ]
+}
